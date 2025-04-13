@@ -1,4 +1,5 @@
 Create & Conquer 
+
 This modpack brings the best of both worlds—old-school modded nostalgia and modern Minecraft immersion. Designed to capture the magic of classic modpacks while embracing the advancements of newer versions, it features carefully curated world generation, balanced progression, and performance optimization to ensure a smooth experience from start to finish.
 
 Core mods include:
